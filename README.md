@@ -16,7 +16,12 @@ As this pin number was send through an SMS on your Phone, when you register.
 
 # Senior Dev Work
 
-Now there was another requirement by the clients as the user cannot take any longer than 10minutes to login. Hence the update token was used with time contraint, I haven't done that, that was done by senior developer.  
+Now there was another requirement by the clients as the user cannot take any longer than 10minutes/{Anytime} to login. Hence the update token was used with time contraint, I haven't done that, that was done by senior developer.  
 
+# Work Environment
 
+For this project, team was using the following softwares, 
 
+- Microsoft SQL Server
+- WebStorm
+- PostMan {API Testing}
